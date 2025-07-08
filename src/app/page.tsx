@@ -5,6 +5,14 @@ export default function Home() {
   return (
     <div className="bg-gray-50 min-h-screen font-sans">
       <main className="flex flex-col items-center justify-center py-12 px-4">
+        <Image
+          src="https://placehold.co/200x40.png"
+          alt="Privacy Logo"
+          width={200}
+          height={40}
+          className="mb-8"
+          data-ai-hint="privacy logo"
+        />
         <div className="w-full max-w-sm">
           <h1 className="text-2xl md:text-3xl font-bold text-center mb-6 text-gray-800">
             Siga o tutorial para finalizar seu pagamento
