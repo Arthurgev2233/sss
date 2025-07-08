@@ -15,7 +15,7 @@ export default function Home() {
         />
         <div className="w-full max-w-sm">
           <h1 className="text-2xl md:text-3xl font-bold text-center mb-6 text-gray-800">
-            Siga o tutorial para finalizar seu pagamento
+            Como realizar o pagamento:
           </h1>
           
           <div className="mb-8 rounded-xl overflow-hidden shadow-2xl border-4 border-white">
