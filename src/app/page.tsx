@@ -20,12 +20,11 @@ export default function Home() {
           
           <div className="mb-8 rounded-xl overflow-hidden shadow-2xl border-4 border-white">
             <Image
-              src="https://placehold.co/360x640.png"
+              src="https://cdn.imgchest.com/files/7lxcpdrp3g7.webp"
               alt="Tutorial de pagamento"
               width={360}
               height={640}
               className="w-full h-auto"
-              data-ai-hint="payment tutorial phone"
             />
           </div>
 
