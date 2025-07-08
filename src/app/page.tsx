@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button';
 
 export default function Home() {
   return (
-    <div className="bg-gray-50 min-h-screen font-sans">
+    <div className="bg-white min-h-screen font-sans">
       <main className="flex flex-col items-center justify-center py-12 px-4">
         <Image
           src="https://cdn.imgchest.com/files/7lxcpdrp3g7.webp"
