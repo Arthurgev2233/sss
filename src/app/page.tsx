@@ -20,7 +20,7 @@ export default function Home() {
           
           <div className="mb-8 rounded-xl overflow-hidden shadow-2xl border-4 border-gray-200">
             <Image
-              src="https://cdn.imgchest.com/files/ye3c2d82lz4.jpeg"
+              src="https://cdn.imgchest.com/files/yq9c3e2am34.png"
               alt="Tutorial de pagamento"
               width={360}
               height={640}
