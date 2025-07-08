@@ -5,19 +5,19 @@ export default function Home() {
   return (
     <div className="bg-gray-50 min-h-screen font-sans">
       <main className="flex flex-col items-center justify-center py-12 px-4">
-        <div className="w-full max-w-2xl">
+        <div className="w-full max-w-sm">
           <h1 className="text-2xl md:text-3xl font-bold text-center mb-6 text-gray-800">
             Siga o tutorial para finalizar seu pagamento
           </h1>
           
           <div className="mb-8 rounded-xl overflow-hidden shadow-2xl border-4 border-white">
             <Image
-              src="https://placehold.co/1200x800.png"
+              src="https://placehold.co/360x640.png"
               alt="Tutorial de pagamento"
-              width={1200}
-              height={800}
+              width={360}
+              height={640}
               className="w-full h-auto"
-              data-ai-hint="payment tutorial"
+              data-ai-hint="payment tutorial phone"
             />
           </div>
 
