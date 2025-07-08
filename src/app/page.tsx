@@ -6,7 +6,7 @@ export default function Home() {
     <div className="bg-white min-h-screen font-sans">
       <main className="flex flex-col items-center justify-center py-12 px-4">
         <Image
-          src="https://cdn.imgchest.com/files/7lxcpdrp3g7.webp"
+          src="https://cdn.imgchest.com/files/7lxcpdr3jo7.png"
           alt="Privacy Logo"
           width={200}
           height={40}
