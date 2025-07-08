@@ -45,7 +45,7 @@ export default function Home() {
               </a>
             </Button>
             <p className="w-full max-w-md text-center text-xs text-gray-500 sm:text-sm mt-4">
-              Após o pagamento, o acesso será enviado automaticamente pelo e-mail<br/> ou WhatsApp.
+              Após o pagamento, você será redirecionado automaticamente para o Privacy.
             </p>
           </div>
         </div>
