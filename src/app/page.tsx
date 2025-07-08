@@ -6,7 +6,7 @@ export default function Home() {
     <div className="bg-gray-50 min-h-screen font-sans">
       <main className="flex flex-col items-center justify-center py-12 px-4">
         <Image
-          src="https://placehold.co/200x40.png"
+          src="https://cdn.imgchest.com/files/7lxcpdrp3g7.webp"
           alt="Privacy Logo"
           width={200}
           height={40}
@@ -20,7 +20,7 @@ export default function Home() {
           
           <div className="mb-8 rounded-xl overflow-hidden shadow-2xl border-4 border-white">
             <Image
-              src="https://cdn.imgchest.com/files/7lxcpdrp3g7.webp"
+              src="https://placehold.co/360x640.png"
               alt="Tutorial de pagamento"
               width={360}
               height={640}
